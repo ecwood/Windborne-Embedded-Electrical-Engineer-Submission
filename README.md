@@ -10,3 +10,4 @@ I routed ground between two different pathways (one for D4, and D5, another for 
 - [pcb_schematic.pdf](https://github.com/ecwood/Windborne-Embedded-Electrical-Engineer-Submission/blob/main/pcb_schematic.pdf): This file shows the circuit schematic for my PCB.
 - [pcb_routing.png](https://github.com/ecwood/Windborne-Embedded-Electrical-Engineer-Submission/blob/main/pcb_routing.png): This file shows the routing layout for my PCB, along with a description of one challenge that I solved.
 - [halloween_pcb.jpeg](https://github.com/ecwood/Windborne-Embedded-Electrical-Engineer-Submission/blob/main/halloween_pcb.jpeg): This file is an image of my PCB built.
+- [EricaWoodResume.pdf](https://github.com/ecwood/Windborne-Embedded-Electrical-Engineer-Submission/blob/main/EricaWoodResume.pdf): This file contains my resume.
